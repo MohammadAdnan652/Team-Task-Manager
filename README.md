@@ -1,6 +1,13 @@
 # Team Task Manager
 
-Production-ready full-stack task management app for teams with JWT auth, role-based access control, project/task workflows, and a dashboard with filters.
+Team Task Manager is a full-stack web application designed to help teams manage their projects and tasks efficiently. In this system, users can create projects, assign tasks to team members, and track the progress of each task. The application includes a secure authentication system using JWT, where users can sign up and log in safely. It also has role-based access control, where admins can manage projects and tasks, while members can only view and update their assigned work. Each task has a status like To Do, In Progress, and Completed, which helps in tracking progress. Additionally, the dashboard provides an overview of total, completed, pending, and overdue tasks. This project is built using React for the frontend, Node.js and Express for the backend, and MongoDB as the database. Overall, it demonstrates a real-world team collaboration system with proper structure, security, and scalability.
+
+<img width="807" height="404" alt="image" src="https://github.com/user-attachments/assets/9ed9d632-e82f-4bb7-8dc7-d98675a532b6" />    
+
+
+<img width="1918" height="757" alt="image" src="https://github.com/user-attachments/assets/482a8696-50d0-4b91-b6dd-57544248893a" />
+
+
 
 ## Tech Stack
 
@@ -518,5 +525,3 @@ MIT License - feel free to use for personal and commercial projects
 For issues or questions, please open an issue on GitHub or contact the development team.
 
 ---
-
-**Happy Task Managing! 🚀**
